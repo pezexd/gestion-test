@@ -1,2 +1,2 @@
 [phases.install]
-cmds = ['mkdir -p /var/log/nginx && mkdir -p /var/cache/nginx', 'composer install --ignore-platform-reqs', 'npm ci']
+cmds = ['mkdir -p /var/log/nginx && mkdir -p /var/cache/nginx', 'composer self-update --1', 'composer install', 'npm ci']
