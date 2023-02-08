@@ -93,7 +93,7 @@ Route::middleware(['auth:sanctum', 'verified'])->prefix('v1')->group(function ()
         'assistants' => AsistantController::class,
         'pollDesertions' => PollDesertionController::class,
         //parentschool => para actualizar un registro se debe usar el metodo POST con key PUT al final ya que solicita un form-data, igua para restore
-        //parentschool ejemplo => 127.0.0.1:8000/api/v1/parentschool/2?_method=PUT 127.0.0.1:8000/api/v1/parentschool/1/restore?_method=PUT
+        //parentschool ejemplo => 0.0.0.0:8000/api/v1/parentschool/2?_method=PUT 0.0.0.0:8000/api/v1/parentschool/1/restore?_method=PUT
         'parentschools' => ParentSchoolController::class,
         'profiles' => ProfileController::class,
         'methodologicalsheetsone' => MethodologicalSheetsOneController::class,

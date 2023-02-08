@@ -19,7 +19,7 @@ return [
         '%s%s%s',
         // Agrega aquí las URL de tu entorno de desarrollo y producción
         // Add here the URL of your development and production environments
-        'localhost,localhost:3000,127.0.0.1,127.0.0.1:8000,127.0.0.1:3000,::1',
+        'localhost,localhost:3000,0.0.0.0,0.0.0.0:8000,0.0.0.0:3000,::1',
         // ====================================================================
         env('APP_URL') ? ',' . parse_url(env('APP_URL'), PHP_URL_HOST) : '',
         env('FRONTEND_URL') ? ',' . parse_url(env('FRONTEND_URL'), PHP_URL_HOST) : ''
