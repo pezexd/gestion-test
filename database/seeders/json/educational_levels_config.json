@@ -1,0 +1,28 @@
+[
+
+    {
+        "name": "Preescolar"
+    },
+    {
+        "name": "Primaria"
+    },
+    {
+        "name":"Bachillerato"
+    },
+    {
+        "name":"Técnico"
+    },
+    {
+        "name":"Tecnólogo"
+    },
+    {
+        "name":"Pregrado"
+    },
+    {
+        "name":"Posgrado"
+    },
+    {
+        "name": "Ninguno"
+    }
+]
+

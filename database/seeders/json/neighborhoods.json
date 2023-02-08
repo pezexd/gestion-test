@@ -1,0 +1,1430 @@
+[
+    {
+        "name": "20 De Julio",
+        "user_id": 1
+    },
+    {
+        "name": "3 De Julio",
+        "user_id": 1
+    },
+    {
+        "name": "Acueducto San Antonio",
+        "user_id": 1
+    },
+    {
+        "name": "Aguablanca",
+        "user_id": 1
+    },
+    {
+        "name": "Aguacatal",
+        "user_id": 1
+    },
+    {
+        "name": "Alameda",
+        "user_id": 1
+    },
+    {
+        "name": "Alférez Real",
+        "user_id": 1
+    },
+    {
+        "name": "Alfonso Barberena A.",
+        "user_id": 1
+    },
+    {
+        "name": "Alfonso Bonilla Aragón",
+        "user_id": 1
+    },
+    {
+        "name": "Alfonso Lopez I",
+        "user_id": 1
+    },
+    {
+        "name": "Alfonso Lopez II",
+        "user_id": 1
+    },
+    {
+        "name": "Alfonso Lopez III",
+        "user_id": 1
+    },
+    {
+        "name": "Alirio Mora Beltrán",
+        "user_id": 1
+    },
+    {
+        "name": "Alto Nápoles",
+        "user_id": 1
+    },
+    {
+        "name": "Altos De Menga",
+        "user_id": 1
+    },
+    {
+        "name": "Antonio Nariño",
+        "user_id": 1
+    },
+    {
+        "name": "Aranjuez",
+        "user_id": 1
+    },
+    {
+        "name": "Arboledas",
+        "user_id": 1
+    },
+    {
+        "name": "Asturias",
+        "user_id": 1
+    },
+    {
+        "name": "Atanasio Girardot",
+        "user_id": 1
+    },
+    {
+        "name": "Base Aérea",
+        "user_id": 1
+    },
+    {
+        "name": "Belalcázar",
+        "user_id": 1
+    },
+    {
+        "name": "Belén",
+        "user_id": 1
+    },
+    {
+        "name": "Belisario Caicedo",
+        "user_id": 1
+    },
+    {
+        "name": "Bellavista",
+        "user_id": 1
+    },
+    {
+        "name": "Bello Horizonte",
+        "user_id": 1
+    },
+    {
+        "name": "Benjamín Herrera",
+        "user_id": 1
+    },
+    {
+        "name": "Bolivariano",
+        "user_id": 1
+    },
+    {
+        "name": "Bosques Del Limonar",
+        "user_id": 1
+    },
+    {
+        "name": "Bretaña",
+        "user_id": 1
+    },
+    {
+        "name": "Brisas Del Limonar",
+        "user_id": 1
+    },
+    {
+        "name": "Brisas De Los Alamos",
+        "user_id": 1
+    },
+    {
+        "name": "Brisas De Mayo",
+        "user_id": 1
+    },
+    {
+        "name": "Buenos Aires",
+        "user_id": 1
+    },
+    {
+        "name": "Caldas",
+        "user_id": 1
+    },
+    {
+        "name": "Calima",
+        "user_id": 1
+    },
+    {
+        "name": "Calimio Desepaz",
+        "user_id": 1
+    },
+    {
+        "name": "Calipso",
+        "user_id": 1
+    },
+    {
+        "name": "Camino Real",
+        "user_id": 1
+    },
+    {
+        "name": "Joaquin Borrero Sinisterra",
+        "user_id": 1
+    },
+    {
+        "name": "Camino Real",
+        "user_id": 1
+    },
+    {
+        "name": "Los Fundadores",
+        "user_id": 1
+    },
+    {
+        "name": "Cañaveralejo",
+        "user_id": 1
+    },
+    {
+        "name": "Seguros Patria",
+        "user_id": 1
+    },
+    {
+        "name": "Cañaveral",
+        "user_id": 1
+    },
+    {
+        "name": "Cañaverales",
+        "user_id": 1
+    },
+    {
+        "name": "Los Samanes",
+        "user_id": 1
+    },
+    {
+        "name": "Caney",
+        "user_id": 1
+    },
+    {
+        "name": "Cementerio",
+        "user_id": 1
+    },
+    {
+        "name": "Carabineros",
+        "user_id": 1
+    },
+    {
+        "name": "Centenario",
+        "user_id": 1
+    },
+    {
+        "name": "Champagnat",
+        "user_id": 1
+    },
+    {
+        "name": "Chapinero",
+        "user_id": 1
+    },
+    {
+        "name": "Charco Azul",
+        "user_id": 1
+    },
+    {
+        "name": "Chiminangos I",
+        "user_id": 1
+    },
+    {
+        "name": "Chiminangos Ii",
+        "user_id": 1
+    },
+    {
+        "name": "Chipichape",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudad 2000",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudad Campestre",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudad Capri",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudad Córdoba",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudad De Los Alamos",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudadela Comfandi",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudadela Del Rio",
+        "user_id": 1
+    },
+    {
+        "name": "Cvc",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudadela Floralia",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudadela Pasoancho",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudad Talanga",
+        "user_id": 1
+    },
+    {
+        "name": "Ciudad Universitaria",
+        "user_id": 1
+    },
+    {
+        "name": "Club Campestre",
+        "user_id": 1
+    },
+    {
+        "name": "Colinas Del Sur",
+        "user_id": 1
+    },
+    {
+        "name": "Colseguros Andes",
+        "user_id": 1
+    },
+    {
+        "name": "Compartir",
+        "user_id": 1
+    },
+    {
+        "name": "Cristóbal Colón",
+        "user_id": 1
+    },
+    {
+        "name": "Cuarteles De Nápoles",
+        "user_id": 1
+    },
+    {
+        "name": "Cuarto De Legua",
+        "user_id": 1
+    },
+    {
+        "name": "Guadalupe",
+        "user_id": 1
+    },
+    {
+        "name": "Departamental",
+        "user_id": 1
+    },
+    {
+        "name": "Desepaz Invicali",
+        "user_id": 1
+    },
+    {
+        "name": "Doce De Octubre",
+        "user_id": 1
+    },
+    {
+        "name": "Eduardo Santos",
+        "user_id": 1
+    },
+    {
+        "name": "El Bosque",
+        "user_id": 1
+    },
+    {
+        "name": "El Calvario",
+        "user_id": 1
+    },
+    {
+        "name": "El Cedro",
+        "user_id": 1
+    },
+    {
+        "name": "El Cortijo",
+        "user_id": 1
+    },
+    {
+        "name": "El Diamante",
+        "user_id": 1
+    },
+    {
+        "name": "El Dorado",
+        "user_id": 1
+    },
+    {
+        "name": "El Gran Limonar",
+        "user_id": 1
+    },
+    {
+        "name": "Cataya",
+        "user_id": 1
+    },
+    {
+        "name": "El Gran Limonar",
+        "user_id": 1
+    },
+    {
+        "name": "El Guabal",
+        "user_id": 1
+    },
+    {
+        "name": "El Hoyo",
+        "user_id": 1
+    },
+    {
+        "name": "El Ingenio",
+        "user_id": 1
+    },
+    {
+        "name": "El Jardín",
+        "user_id": 1
+    },
+    {
+        "name": "El Jordán",
+        "user_id": 1
+    },
+    {
+        "name": "El Lido",
+        "user_id": 1
+    },
+    {
+        "name": "El Limonar",
+        "user_id": 1
+    },
+    {
+        "name": "El Morichal",
+        "user_id": 1
+    },
+    {
+        "name": "El Mortiñal",
+        "user_id": 1
+    },
+    {
+        "name": "El Nacional",
+        "user_id": 1
+    },
+    {
+        "name": "El Paraíso",
+        "user_id": 1
+    },
+    {
+        "name": "El Peñón",
+        "user_id": 1
+    },
+    {
+        "name": "El Piloto",
+        "user_id": 1
+    },
+    {
+        "name": "El Poblado I",
+        "user_id": 1
+    },
+    {
+        "name": "El Poblado Ii",
+        "user_id": 1
+    },
+    {
+        "name": "El Pondaje",
+        "user_id": 1
+    },
+    {
+        "name": "El Prado",
+        "user_id": 1
+    },
+    {
+        "name": "El Recuerdo",
+        "user_id": 1
+    },
+    {
+        "name": "El Refugio",
+        "user_id": 1
+    },
+    {
+        "name": "El Remanso",
+        "user_id": 1
+    },
+    {
+        "name": "El Retiro",
+        "user_id": 1
+    },
+    {
+        "name": "El Rodeo",
+        "user_id": 1
+    },
+    {
+        "name": "El Sena",
+        "user_id": 1
+    },
+    {
+        "name": "El Trébol",
+        "user_id": 1
+    },
+    {
+        "name": "El Troncal",
+        "user_id": 1
+    },
+    {
+        "name": "El Vallado",
+        "user_id": 1
+    },
+    {
+        "name": "El Vergel",
+        "user_id": 1
+    },
+    {
+        "name": "Eucaristico",
+        "user_id": 1
+    },
+    {
+        "name": "Evaristo Garcia",
+        "user_id": 1
+    },
+    {
+        "name": "Fátima",
+        "user_id": 1
+    },
+    {
+        "name": "Fenalco Kennedy",
+        "user_id": 1
+    },
+    {
+        "name": "Fepicol",
+        "user_id": 1
+    },
+    {
+        "name": "Flora Industrial",
+        "user_id": 1
+    },
+    {
+        "name": "Fonaviemcali",
+        "user_id": 1
+    },
+    {
+        "name": "Francisco Eladio Ramírez",
+        "user_id": 1
+    },
+    {
+        "name": "Granada",
+        "user_id": 1
+    },
+    {
+        "name": "Guayaquil",
+        "user_id": 1
+    },
+    {
+        "name": "Guillermo Valencia",
+        "user_id": 1
+    },
+    {
+        "name": "Horizontes",
+        "user_id": 1
+    },
+    {
+        "name": "Ignacio Rengifo",
+        "user_id": 1
+    },
+    {
+        "name": "Industria De Licores",
+        "user_id": 1
+    },
+    {
+        "name": "Industrial",
+        "user_id": 1
+    },
+    {
+        "name": "Jorge Eliécer Gaitán",
+        "user_id": 1
+    },
+    {
+        "name": "Jorge Isaacs",
+        "user_id": 1
+    },
+    {
+        "name": "Jorge Zawadsky",
+        "user_id": 1
+    },
+    {
+        "name": "José Holguín Garcés",
+        "user_id": 1
+    },
+    {
+        "name": "José Manuel Marroquín I",
+        "user_id": 1
+    },
+    {
+        "name": "José Manuel Marroquín Ii",
+        "user_id": 1
+    },
+    {
+        "name": "José María Córdoba",
+        "user_id": 1
+    },
+    {
+        "name": "Juanambú",
+        "user_id": 1
+    },
+    {
+        "name": "Julio Rincón",
+        "user_id": 1
+    },
+    {
+        "name": "Junín",
+        "user_id": 1
+    },
+    {
+        "name": "La Alborada",
+        "user_id": 1
+    },
+    {
+        "name": "La Alianza",
+        "user_id": 1
+    },
+    {
+        "name": "La Base",
+        "user_id": 1
+    },
+    {
+        "name": "La Campiña",
+        "user_id": 1
+    },
+    {
+        "name": "La Cascada",
+        "user_id": 1
+    },
+    {
+        "name": "La Esmeralda",
+        "user_id": 1
+    },
+    {
+        "name": "La Esperanza",
+        "user_id": 1
+    },
+    {
+        "name": "La Flora",
+        "user_id": 1
+    },
+    {
+        "name": "La Floresta",
+        "user_id": 1
+    },
+    {
+        "name": "La Fortaleza",
+        "user_id": 1
+    },
+    {
+        "name": "La Gran Colombia",
+        "user_id": 1
+    },
+    {
+        "name": "La Hacienda",
+        "user_id": 1
+    },
+    {
+        "name": "La Independencia",
+        "user_id": 1
+    },
+    {
+        "name": "La Isla",
+        "user_id": 1
+    },
+    {
+        "name": "La Libertad",
+        "user_id": 1
+    },
+    {
+        "name": "La Merced",
+        "user_id": 1
+    },
+    {
+        "name": "La Paz",
+        "user_id": 1
+    },
+    {
+        "name": "La Playa",
+        "user_id": 1
+    },
+    {
+        "name": "La Rivera I",
+        "user_id": 1
+    },
+    {
+        "name": "Las Acacias",
+        "user_id": 1
+    },
+    {
+        "name": "Las Américas",
+        "user_id": 1
+    },
+    {
+        "name": "Las Ceibas",
+        "user_id": 1
+    },
+    {
+        "name": "Las Delicias",
+        "user_id": 1
+    },
+    {
+        "name": "La Selva",
+        "user_id": 1
+    },
+    {
+        "name": "Las Granjas",
+        "user_id": 1
+    },
+    {
+        "name": "Las Orquídeas",
+        "user_id": 1
+    },
+    {
+        "name": "Las Quintas De Don Simón",
+        "user_id": 1
+    },
+    {
+        "name": "La Sultana",
+        "user_id": 1
+    },
+    {
+        "name": "Laureano Gómez",
+        "user_id": 1
+    },
+    {
+        "name": "León Xiii",
+        "user_id": 1
+    },
+    {
+        "name": "Lili",
+        "user_id": 1
+    },
+    {
+        "name": "Lleras Camargo",
+        "user_id": 1
+    },
+    {
+        "name": "Lleras Restrepo",
+        "user_id": 1
+    },
+    {
+        "name": "Lleras Restrepo Ii",
+        "user_id": 1
+    },
+    {
+        "name": "Los Alcazares",
+        "user_id": 1
+    },
+    {
+        "name": "Los Andes B",
+        "user_id": 1
+    },
+    {
+        "name": "La Riviera",
+        "user_id": 1
+    },
+    {
+        "name": "Los Andes",
+        "user_id": 1
+    },
+    {
+        "name": "Los Cámbulos",
+        "user_id": 1
+    },
+    {
+        "name": "Los Chorros",
+        "user_id": 1
+    },
+    {
+        "name": "Los Comuneros I",
+        "user_id": 1
+    },
+    {
+        "name": "Los Comuneros Ii",
+        "user_id": 1
+    },
+    {
+        "name": "Los Conquistadores",
+        "user_id": 1
+    },
+    {
+        "name": "Los Farallones",
+        "user_id": 1
+    },
+    {
+        "name": "Los Guaduales",
+        "user_id": 1
+    },
+    {
+        "name": "Los Guayacanes",
+        "user_id": 1
+    },
+    {
+        "name": "Los Lagos",
+        "user_id": 1
+    },
+    {
+        "name": "Los Libertadores",
+        "user_id": 1
+    },
+    {
+        "name": "Los Lideres",
+        "user_id": 1
+    },
+    {
+        "name": "Los Naranjos",
+        "user_id": 1
+    },
+    {
+        "name": "Los Naranjos Ii",
+        "user_id": 1
+    },
+    {
+        "name": "Los Parques",
+        "user_id": 1
+    },
+    {
+        "name": "Barranquilla",
+        "user_id": 1
+    },
+    {
+        "name": "Los Pinos",
+        "user_id": 1
+    },
+    {
+        "name": "Los Portales",
+        "user_id": 1
+    },
+    {
+        "name": "Nuevo Rey",
+        "user_id": 1
+    },
+    {
+        "name": "Los Robles",
+        "user_id": 1
+    },
+    {
+        "name": "Los Sauces",
+        "user_id": 1
+    },
+    {
+        "name": "Lourdes",
+        "user_id": 1
+    },
+    {
+        "name": "Manuela Beltrán",
+        "user_id": 1
+    },
+    {
+        "name": "Manuel Maria Buenaventura",
+        "user_id": 1
+    },
+    {
+        "name": "Manzanares",
+        "user_id": 1
+    },
+    {
+        "name": "Maracaibo",
+        "user_id": 1
+    },
+    {
+        "name": "Marco Fidel Suárez",
+        "user_id": 1
+    },
+    {
+        "name": "Mariano Ramos",
+        "user_id": 1
+    },
+    {
+        "name": "Mario Correa Rengifo",
+        "user_id": 1
+    },
+    {
+        "name": "Marroquín Iii",
+        "user_id": 1
+    },
+    {
+        "name": "Mayapan",
+        "user_id": 1
+    },
+    {
+        "name": "Las Vegas",
+        "user_id": 1
+    },
+    {
+        "name": "Meléndez",
+        "user_id": 1
+    },
+    {
+        "name": "Menga",
+        "user_id": 1
+    },
+    {
+        "name": "Metropolitano Del Norte",
+        "user_id": 1
+    },
+    {
+        "name": "Miraflores",
+        "user_id": 1
+    },
+    {
+        "name": "Mojica",
+        "user_id": 1
+    },
+    {
+        "name": "Municipal",
+        "user_id": 1
+    },
+    {
+        "name": "Nápoles",
+        "user_id": 1
+    },
+    {
+        "name": "Navarro",
+        "user_id": 1
+    },
+    {
+        "name": "La Chanca",
+        "user_id": 1
+    },
+    {
+        "name": "Normandia",
+        "user_id": 1
+    },
+    {
+        "name": "Nueva Floresta",
+        "user_id": 1
+    },
+    {
+        "name": "Nueva Tequendama",
+        "user_id": 1
+    },
+    {
+        "name": "Obrero",
+        "user_id": 1
+    },
+    {
+        "name": "Olaya Herrera",
+        "user_id": 1
+    },
+    {
+        "name": "Olímpico",
+        "user_id": 1
+    },
+    {
+        "name": "Omar Torrijos",
+        "user_id": 1
+    },
+    {
+        "name": "Pampalinda",
+        "user_id": 1
+    },
+    {
+        "name": "Panamericano",
+        "user_id": 1
+    },
+    {
+        "name": "Parcelaciones Pance",
+        "user_id": 1
+    },
+    {
+        "name": "Parque De La Caña",
+        "user_id": 1
+    },
+    {
+        "name": "Paseo De Los Almendros",
+        "user_id": 1
+    },
+    {
+        "name": "Pasoancho",
+        "user_id": 1
+    },
+    {
+        "name": "Paso Del Comercio",
+        "user_id": 1
+    },
+    {
+        "name": "Petecuy I",
+        "user_id": 1
+    },
+    {
+        "name": "Petecuy Ii",
+        "user_id": 1
+    },
+    {
+        "name": "Petecuy Iii",
+        "user_id": 1
+    },
+    {
+        "name": "Pizamos I",
+        "user_id": 1
+    },
+    {
+        "name": "Pizamos Ii",
+        "user_id": 1
+    },
+    {
+        "name": "Pizamos Iii",
+        "user_id": 1
+    },
+    {
+        "name": "Las Dalias",
+        "user_id": 1
+    },
+    {
+        "name": "Planta De Tratamiento",
+        "user_id": 1
+    },
+    {
+        "name": "Polvorines",
+        "user_id": 1
+    },
+    {
+        "name": "Popular",
+        "user_id": 1
+    },
+    {
+        "name": "Porvenir",
+        "user_id": 1
+    },
+    {
+        "name": "Potrero Grande",
+        "user_id": 1
+    },
+    {
+        "name": "Prados Del Limonar",
+        "user_id": 1
+    },
+    {
+        "name": "Prados Del Norte",
+        "user_id": 1
+    },
+    {
+        "name": "Prados Del Sur",
+        "user_id": 1
+    },
+    {
+        "name": "Prados De Oriente",
+        "user_id": 1
+    },
+    {
+        "name": "Primavera",
+        "user_id": 1
+    },
+    {
+        "name": "Primero De Mayo",
+        "user_id": 1
+    },
+    {
+        "name": "Primitivo Crespo",
+        "user_id": 1
+    },
+    {
+        "name": "Promociones Populares B",
+        "user_id": 1
+    },
+    {
+        "name": "Pueblo Joven",
+        "user_id": 1
+    },
+    {
+        "name": "Puerta Del Sol",
+        "user_id": 1
+    },
+    {
+        "name": "Puerto Mallarino",
+        "user_id": 1
+    },
+    {
+        "name": "Puerto Nuevo",
+        "user_id": 1
+    },
+    {
+        "name": "Rafael Uribe Uribe",
+        "user_id": 1
+    },
+    {
+        "name": "República De Israel",
+        "user_id": 1
+    },
+    {
+        "name": "Ricardo Balcázar",
+        "user_id": 1
+    },
+    {
+        "name": "Rodrigo Lara Bonilla",
+        "user_id": 1
+    },
+    {
+        "name": "Saavedra Galindo",
+        "user_id": 1
+    },
+    {
+        "name": "Salomia",
+        "user_id": 1
+    },
+    {
+        "name": "San Antonio",
+        "user_id": 1
+    },
+    {
+        "name": "San Benito",
+        "user_id": 1
+    },
+    {
+        "name": "San Carlos",
+        "user_id": 1
+    },
+    {
+        "name": "San Cayetano",
+        "user_id": 1
+    },
+    {
+        "name": "San Cristóbal",
+        "user_id": 1
+    },
+    {
+        "name": "San Fernando Nuevo",
+        "user_id": 1
+    },
+    {
+        "name": "San Fernando Viejo",
+        "user_id": 1
+    },
+    {
+        "name": "San Juan Bosco",
+        "user_id": 1
+    },
+    {
+        "name": "San Judas Tadeo I",
+        "user_id": 1
+    },
+    {
+        "name": "San Judas Tadeo Ii",
+        "user_id": 1
+    },
+    {
+        "name": "San Luis",
+        "user_id": 1
+    },
+    {
+        "name": "San Luis Ii",
+        "user_id": 1
+    },
+    {
+        "name": "San Marino",
+        "user_id": 1
+    },
+    {
+        "name": "San Nicolás",
+        "user_id": 1
+    },
+    {
+        "name": "San Pascual",
+        "user_id": 1
+    },
+    {
+        "name": "San Pedro Claver",
+        "user_id": 1
+    },
+    {
+        "name": "San Pedro",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Anita - La Selva",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Bárbara",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Elena",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Fé",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Isabel",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Mónica Belalcázar",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Mónica",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Mónica Popular",
+        "user_id": 1
+    },
+    {
+        "name": "Santander",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Rita",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Rosa",
+        "user_id": 1
+    },
+    {
+        "name": "Santa Teresita",
+        "user_id": 1
+    },
+    {
+        "name": "Santo Domingo",
+        "user_id": 1
+    },
+    {
+        "name": "San Vicente",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Alto De Los Chorros",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Alto Jordán",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Altos De Normandia - Bataclán",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Altos De Santa Isabel",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Asprosocial - Diamante",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Bosque Municipal",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Laguna Del Pondaje",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Meléndez",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Patio Bonito",
+        "user_id": 1
+    },
+    {
+        "name": "Sector Puente Del Comercio",
+        "user_id": 1
+    },
+    {
+        "name": "Siete De Agosto",
+        "user_id": 1
+    },
+    {
+        "name": "Siloé",
+        "user_id": 1
+    },
+    {
+        "name": "Simón Bolívar",
+        "user_id": 1
+    },
+    {
+        "name": "Sindical",
+        "user_id": 1
+    },
+    {
+        "name": "Sucre",
+        "user_id": 1
+    },
+    {
+        "name": "Sultana",
+        "user_id": 1
+    },
+    {
+        "name": "Berlín",
+        "user_id": 1
+    },
+    {
+        "name": "San Francisco",
+        "user_id": 1
+    },
+    {
+        "name": "Tejares",
+        "user_id": 1
+    },
+    {
+        "name": "Cristales",
+        "user_id": 1
+    },
+    {
+        "name": "Terron Colorado",
+        "user_id": 1
+    },
+    {
+        "name": "Tierra Blanca",
+        "user_id": 1
+    },
+    {
+        "name": "Torres De Comfandi",
+        "user_id": 1
+    },
+    {
+        "name": "U. D. A. Galindo Plaza De Toros",
+        "user_id": 1
+    },
+    {
+        "name": "Ulpiano Lloreda",
+        "user_id": 1
+    },
+    {
+        "name": "Unicentro Cali",
+        "user_id": 1
+    },
+    {
+        "name": "Unidad Residencial Bueno Madrid",
+        "user_id": 1
+    },
+    {
+        "name": "Unidad Residencial El Coliseo",
+        "user_id": 1
+    },
+    {
+        "name": "Unidad Residencial Santiago De Cali",
+        "user_id": 1
+    },
+    {
+        "name": "Unión De Vivienda Popular",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Boyaca",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Calimio",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Ciudad Jardín",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Colseguros",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización El Angel Del Hogar",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización La Flora",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización La Merced",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización La Nueva Base",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Militar",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Nueva Granada",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Rio Lili",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización San Joaquin",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Tequendama",
+        "user_id": 1
+    },
+    {
+        "name": "Valle Grande",
+        "user_id": 1
+    },
+    {
+        "name": "Venezuela",
+        "user_id": 1
+    },
+    {
+        "name": "Urbanización Cañaveralejo",
+        "user_id": 1
+    },
+    {
+        "name": "Versalles",
+        "user_id": 1
+    },
+    {
+        "name": "Villablanca",
+        "user_id": 1
+    },
+    {
+        "name": "Villacolombia",
+        "user_id": 1
+    },
+    {
+        "name": "Villa Del Lago",
+        "user_id": 1
+    },
+    {
+        "name": "Villa Del Prado",
+        "user_id": 1
+    },
+    {
+        "name": "El Guabito",
+        "user_id": 1
+    },
+    {
+        "name": "Villa Del Sol",
+        "user_id": 1
+    },
+    {
+        "name": "Villa Del Sur",
+        "user_id": 1
+    },
+    {
+        "name": "Villamercedes I",
+        "user_id": 1
+    },
+    {
+        "name": "Villa Luz",
+        "user_id": 1
+    },
+    {
+        "name": "Las Garzas",
+        "user_id": 1
+    },
+    {
+        "name": "Villanueva",
+        "user_id": 1
+    },
+    {
+        "name": "Vipasa",
+        "user_id": 1
+    },
+    {
+        "name": "Vista Hermosa",
+        "user_id": 1
+    },
+    {
+        "name": "Yira Castro",
+        "user_id": 1
+    },
+    {
+        "name": "Otro",
+        "user_id": 1
+    }
+]

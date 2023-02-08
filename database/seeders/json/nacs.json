@@ -1,0 +1,270 @@
+[
+    {
+        "name": "ALCALÁ",
+        "user_id": 1
+    },
+    {
+        "name": "ANDALUCÍA",
+        "user_id": 1
+    },
+    {
+        "name": "ANSERMANUEVO",
+        "user_id": 1
+    },
+    {
+        "name": "ARGELIA",
+        "user_id": 1
+    },
+    {
+        "name": "BOLÍVAR",
+        "user_id": 1
+    },
+    {
+        "name": "BUENAVENTURA",
+        "user_id": 1
+    },
+    {
+        "name": "BUGA",
+        "user_id": 1
+    },
+    {
+        "name": "BUGALAGRANDE",
+        "user_id": 1
+    },
+    {
+        "name": "CAICEDONIA",
+        "user_id": 1
+    },
+    {
+        "name": "CALI",
+        "user_id": 1
+    },
+    {
+        "name": "CALIMA - EL DARIÉN",
+        "user_id": 1
+    },
+    {
+        "name": "CANDELARIA",
+        "user_id": 1
+    },
+    {
+        "name": "CARTAGO",
+        "user_id": 1
+    },
+    {
+        "name": "DAGUA",
+        "user_id": 1
+    },
+    {
+        "name": "EL ÁGUILA",
+        "user_id": 1
+    },
+    {
+        "name": "EL CAIRO",
+        "user_id": 1
+    },
+    {
+        "name": "EL CERRITO",
+        "user_id": 1
+    },
+    {
+        "name": "EL DOVIO",
+        "user_id": 1
+    },
+    {
+        "name": "FLORIDA",
+        "user_id": 1
+    },
+    {
+        "name": "GINEBRA",
+        "user_id": 1
+    },
+    {
+        "name": "GUACARÍ",
+        "user_id": 1
+    },
+    {
+        "name": "JAMUNDÍ",
+        "user_id": 1
+    },
+    {
+        "name": "LA CUMBRE",
+        "user_id": 1
+    },
+    {
+        "name": "LA UNIÓN",
+        "user_id": 1
+    },
+    {
+        "name": "LA VICTORIA",
+        "user_id": 1
+    },
+    {
+        "name": "OBANDO",
+        "user_id": 1
+    },
+    {
+        "name": "PALMIRA",
+        "user_id": 1
+    },
+    {
+        "name": "PRADERA",
+        "user_id": 1
+    },
+    {
+        "name": "RESTREPO",
+        "user_id": 1
+    },
+    {
+        "name": "RIOFRÍO",
+        "user_id": 1
+    },
+    {
+        "name": "ROLDANILLO",
+        "user_id": 1
+    },
+    {
+        "name": "SAN PEDRO",
+        "user_id": 1
+    },
+    {
+        "name": "SEVILLA",
+        "user_id": 1
+    },
+    {
+        "name": "TORO",
+        "user_id": 1
+    },
+    {
+        "name": "TRUJILLO",
+        "user_id": 1
+    },
+    {
+        "name": "TULUÁ",
+        "user_id": 1
+    },
+    {
+        "name": "ULLOA",
+        "user_id": 1
+    },
+    {
+        "name": "VERSALLES",
+        "user_id": 1
+    },
+    {
+        "name": "VIJES",
+        "user_id": 1
+    },
+    {
+        "name": "YOTOCO",
+        "user_id": 1
+    },
+    {
+        "name": "YUMBO",
+        "user_id": 1
+    },
+    {
+        "name": "ZARZAL",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 1",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 2",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 3",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 4",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 5",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 6",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 7",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 8",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 9",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 10",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 11",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 12",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 13",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 14",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 15",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 16",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 17",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 18",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 19",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 20",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 21",
+        "user_id": 1
+    },
+    {
+        "name": "COMUNA 22",
+        "user_id": 1
+    },
+    {
+        "name": "NODO 23",
+        "user_id": 1
+    },
+    {
+        "name": "NODO 24",
+        "user_id": 1
+    },
+    {
+        "name": "NODO 25",
+        "user_id": 1
+    }
+]

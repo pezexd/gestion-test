@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Artes plásticas",
+        "user_id": 1
+    },
+    {
+        "name": "Teatro",
+        "user_id": 1
+    },
+    {
+        "name": "Música",
+        "user_id": 1
+    },
+    {
+        "name": "Danza",
+        "user_id": 1
+    },
+    {
+        "name": "Cocina tradicional",
+        "user_id": 1
+    },
+    {
+        "name": "Juegos tradicionales",
+        "user_id": 1
+    },
+    {
+        "name": "Promoción de lectura",
+        "user_id": 1
+    }
+]

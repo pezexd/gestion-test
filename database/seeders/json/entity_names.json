@@ -1,0 +1,67 @@
+[
+    {
+        "name": "COMFENALCO",
+        "user_id": 1
+    },
+    {
+        "name": "Famisanar",
+        "user_id": 1
+    },
+    {
+        "name": "Servicios de Occidente de Salud SOS",
+        "user_id": 1
+    },
+    {
+        "name": "Cruz Blanca",
+        "user_id": 1
+    },
+    {
+        "name": "Nueva EPS",
+        "user_id": 1
+    },
+    {
+        "name": "Medimas EPS",
+        "user_id": 1
+    },
+    {
+        "name": "Mallamas EPS",
+        "user_id": 1
+    },
+    {
+        "name": "Saludvida SA EPS",
+        "user_id": 1
+    },
+    {
+        "name": "Asociación de Indigenas del CAuca-AIC EPS Indigena",
+        "user_id": 1
+    },
+    {
+        "name": "Coosalud",
+        "user_id": 1
+    },
+    {
+        "name": "Asmet Salud",
+        "user_id": 1
+    },
+    {
+        "name": "Barrios Unidos de Quibdo EPS AMBUQ-ESS",
+        "user_id": 1
+    },
+    {
+        "name": "EMSSANAR",
+        "user_id": 1
+    },
+    {
+        "name": "Fondo de Pasivo Social de Ferrocarriles Nacionales de Colombia",
+        "user_id": 1
+    },
+    {
+        "name": "Unisalud Palmira",
+        "user_id": 1
+    }
+    ,
+    {
+        "name": "Otro",
+        "user_id": 1
+    }
+]
